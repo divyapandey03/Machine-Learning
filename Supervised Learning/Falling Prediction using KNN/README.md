@@ -17,8 +17,9 @@ We can use the data sent from Gyroscope sensor and Accelerometer sensor to categ
 
 - Go to Colab 
 
-![k2](https://user-images.githubusercontent.com/23255126/216856126-c3424932-cd8b-453d-b11b-cac11f491d3b.jpg)
 
+
+![k1](https://user-images.githubusercontent.com/23255126/216856163-2edf5933-fc44-4017-b39d-66c51c7624a1.jpg)
 
 - Download the Sample Data
 
@@ -26,9 +27,7 @@ We can use the data sent from Gyroscope sensor and Accelerometer sensor to categ
 
 - Run Python Code to Predict  kNN Value
 
-**Test Data: **
-
-
+### Test Data: 
 
 
 <img width="290" alt="p6" src="https://user-images.githubusercontent.com/23255126/216856068-e67082ee-2448-4860-953f-0f679c56ac2f.png">
