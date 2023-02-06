@@ -2,8 +2,12 @@
 - k-Nearest-Neighbors (k-NN) is a simple machine learning algorithm used for classification and regression tasks. 
 
 - It works by finding the k number of closest training examples to a new data point and classifying the new data point based on the majority of the class labels of its k nearest neighbors.
-
 - The distance metric used to calculate the closest neighbors is typically Euclidean distance.
+![k2](https://user-images.githubusercontent.com/23255126/216856642-3ccd91d6-d6f8-4ee8-b59a-763a576da39c.jpg)
+
+
+
+
 
 **Most mobile devices are equipped with different kind of sensors.**
 We can use the data sent from Gyroscope sensor and Accelerometer sensor to categorize any motion:
