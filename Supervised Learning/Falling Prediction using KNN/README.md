@@ -22,11 +22,11 @@ We can use the data sent from Gyroscope sensor and Accelerometer sensor to categ
 <img width="943" alt="p4" src="https://user-images.githubusercontent.com/23255126/216856248-9296e8d7-181b-4b98-ad8e-fe475f7cb6b0.png">
 
 
-- Download the Sample Data
+- Download the Sample Data: https://github.com/divyapandey03/Machine-Learning/blob/main/Supervised%20Learning/Falling%20Prediction%20using%20KNN/knn_data_sample.csv
 
-- Run Python Code of Scikit-learn library
+- Run Python Code of Scikit-learn library: https://github.com/divyapandey03/Machine-Learning/blob/main/Supervised%20Learning/Falling%20Prediction%20using%20KNN/dnn.ipynb
 
-- Run Python Code to Predict  kNN Value
+- Run Python Code to Predict  kNN Value: https://github.com/divyapandey03/Machine-Learning/blob/main/Supervised%20Learning/Falling%20Prediction%20using%20KNN/dnn_python.ipynb
 
 ### Test Data: 
 
