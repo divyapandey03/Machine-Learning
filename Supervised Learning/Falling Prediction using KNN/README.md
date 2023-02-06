@@ -19,7 +19,8 @@ We can use the data sent from Gyroscope sensor and Accelerometer sensor to categ
 
 
 
-![k1](https://user-images.githubusercontent.com/23255126/216856163-2edf5933-fc44-4017-b39d-66c51c7624a1.jpg)
+<img width="943" alt="p4" src="https://user-images.githubusercontent.com/23255126/216856248-9296e8d7-181b-4b98-ad8e-fe475f7cb6b0.png">
+
 
 - Download the Sample Data
 
