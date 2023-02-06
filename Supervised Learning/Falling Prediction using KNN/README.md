@@ -34,8 +34,12 @@ We can use the data sent from Gyroscope sensor and Accelerometer sensor to categ
 <img width="290" alt="p6" src="https://user-images.githubusercontent.com/23255126/216856068-e67082ee-2448-4860-953f-0f679c56ac2f.png">
 
 
+# Result:
+
 
 
  
 
+<img width="634" alt="p1" src="https://user-images.githubusercontent.com/23255126/216856349-18f34868-2d6c-49f0-a2e2-5cdd35aa385f.png"> 
 
+<img width="386" alt="p2" src="https://user-images.githubusercontent.com/23255126/216856358-884e389e-827b-4bed-8dec-c5815beeb5d1.png">
