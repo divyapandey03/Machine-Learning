@@ -11,7 +11,7 @@ In the field of Machine Learning, the performance of a model is crucial. To asse
 
 ## Implementation:
 
--Google Colab: https://colab.research.google.com/
+- Google Colab: https://colab.research.google.com/
 
 <img width="652" alt="g1" src="https://user-images.githubusercontent.com/23255126/218245097-aac6f0e9-95df-448d-9f59-50f91f164316.png">
 
