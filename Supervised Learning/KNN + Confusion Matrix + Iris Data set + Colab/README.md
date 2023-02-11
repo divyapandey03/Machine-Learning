@@ -8,3 +8,9 @@ In the field of Machine Learning, the performance of a model is crucial. To asse
 <img width="730" alt="d2" src="https://user-images.githubusercontent.com/23255126/218244842-b04ac082-0bfd-4195-ba17-fa4b261767ca.png">
 
 <img width="418" alt="d3" src="https://user-images.githubusercontent.com/23255126/218244911-64140f52-790d-4330-9482-46c4d5d8e462.png">
+
+## Implementation:
+
+-Google Colab: https://colab.research.google.com/
+- Iris Data Set: https://github.com/divyapandey03/Machine-Learning/blob/main/Supervised%20Learning/KNN%20%2B%20Confusion%20Matrix%20%2B%20Iris%20Data%20set%20%2B%20Colab/Iris_data.csv
+- Execute iris_knn.ipynb: https://github.com/divyapandey03/Machine-Learning/blob/main/Supervised%20Learning/KNN%20%2B%20Confusion%20Matrix%20%2B%20Iris%20Data%20set%20%2B%20Colab/iris_knn.ipynb
