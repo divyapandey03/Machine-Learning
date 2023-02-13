@@ -11,3 +11,9 @@ Google Colab provides free access to a Jupyter Notebook and a small version of t
 
 
 <img width="366" alt="s3" src="https://user-images.githubusercontent.com/23255126/218360866-8d96d071-bbe9-4743-a0fc-e73e17780f60.png">
+
+## Implementation:
+
+- Go to Colab: https://colab.research.google.com/
+
+- Execute classification.ipynb: https://github.com/divyapandey03/Machine-Learning/blob/main/Supervised%20Learning/Classification%20on%20Colab%20using%20MNIST%20dataset/classification.ipynb
