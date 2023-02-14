@@ -30,4 +30,5 @@ In the field of Machine Learning, the performance of a model is crucial. To asse
 
 <img width="530" alt="g3" src="https://user-images.githubusercontent.com/23255126/218245102-9d8965b4-d774-4bcb-b81c-2f29439a3c36.png">
 
+### Google Drive Link: https://docs.google.com/presentation/d/1yaITwlIiiHSKHmYDkakrEzdATJqXfSrv/edit#slide=id.p1
 
