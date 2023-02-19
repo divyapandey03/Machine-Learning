@@ -6,6 +6,9 @@ Predicting median housing prices in Silicon Valley can help determine if a distr
 
 
 
+![download](https://user-images.githubusercontent.com/23255126/219971839-e122ab66-1045-445d-9dcb-f1c847336a22.png)
+
+
 # Implementation:
 
 - Go to Colab: https://colab.research.google.com/
