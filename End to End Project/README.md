@@ -11,6 +11,9 @@ Predicting median housing prices in **Silicon Valley** can help determine if a d
 
 ![download](https://user-images.githubusercontent.com/23255126/219971839-e122ab66-1045-445d-9dcb-f1c847336a22.png)
 
+![d2](https://user-images.githubusercontent.com/23255126/219971992-0baa31a7-87d8-4cbc-9268-52e6c7867a20.jpg)
+
+
 
 # Implementation:
 
