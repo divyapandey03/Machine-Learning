@@ -28,3 +28,4 @@ Text classification is one of the fundamental tasks in natural language processi
 <img width="514" alt="g2" src="https://user-images.githubusercontent.com/23255126/222936479-d81462ef-0914-4b8e-821c-bd00ca74d0c7.png">
 
 
+Thus, Author of Hamlet is William Stanley
