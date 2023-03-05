@@ -16,7 +16,11 @@ Text classification is one of the fundamental tasks in natural language processi
 
 
 
+<img width="167" alt="d4" src="https://user-images.githubusercontent.com/23255126/222937049-e43efdb5-1d41-4950-852b-2c973d428b43.png">
 ## Implementation:
+
+
+![Uploading d4.png…]()
 
 
 <img width="464" alt="d3" src="https://user-images.githubusercontent.com/23255126/222936676-d1892fb4-551a-4e74-b79e-cccc1b009b20.png">
