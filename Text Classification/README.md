@@ -20,7 +20,7 @@ Text classification is one of the fundamental tasks in natural language processi
 ## Implementation:
 
 
-![Uploading d4.png…]()
+
 
 
 <img width="464" alt="d3" src="https://user-images.githubusercontent.com/23255126/222936676-d1892fb4-551a-4e74-b79e-cccc1b009b20.png">
