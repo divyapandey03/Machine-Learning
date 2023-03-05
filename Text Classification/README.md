@@ -13,12 +13,18 @@ Text classification is one of the fundamental tasks in natural language processi
 
 
 
-<img width="458" alt="d2" src="https://user-images.githubusercontent.com/23255126/222936635-a15494fe-5dd2-4088-8fb4-7731400843f5.png">
+
 
 
 ## Implementation:
 
-- Go to colab: https://colab.research.google.com/
+
+<img width="464" alt="d3" src="https://user-images.githubusercontent.com/23255126/222936676-d1892fb4-551a-4e74-b79e-cccc1b009b20.png">
+
+**Who is the real author of Hamlet?**
+
+- Go to ![Uploading d3.png…]()
+colab: https://colab.research.google.com/
 
 
 <img width="695" alt="d1" src="https://user-images.githubusercontent.com/23255126/222936439-6e4ec13a-17e7-4926-bdac-f15d782ad2be.png">
