@@ -23,8 +23,7 @@ Text classification is one of the fundamental tasks in natural language processi
 
 **Who is the real author of Hamlet?**
 
-- Go to ![Uploading d3.png…]()
-colab: https://colab.research.google.com/
+- Go to colab: https://colab.research.google.com/
 
 
 <img width="695" alt="d1" src="https://user-images.githubusercontent.com/23255126/222936439-6e4ec13a-17e7-4926-bdac-f15d782ad2be.png">
