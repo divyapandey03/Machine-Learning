@@ -22,7 +22,7 @@ Text classification is one of the fundamental tasks in natural language processi
 
 - Execute the Code: https://github.com/divyapandey03/Machine-Learning/blob/main/Text%20Classification/text-classifier.ipynb
 
-## Output
+# Output:
 
 
 <img width="514" alt="g2" src="https://user-images.githubusercontent.com/23255126/222936479-d81462ef-0914-4b8e-821c-bd00ca74d0c7.png">
