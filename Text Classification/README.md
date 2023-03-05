@@ -11,6 +11,11 @@ Text classification is one of the fundamental tasks in natural language processi
 
 <img width="306" alt="c4" src="https://user-images.githubusercontent.com/23255126/222936316-4253c702-52bd-4cde-9897-ab194d3e4240.png">
 
+
+
+<img width="458" alt="d2" src="https://user-images.githubusercontent.com/23255126/222936635-a15494fe-5dd2-4088-8fb4-7731400843f5.png">
+
+
 ## Implementation:
 
 - Go to colab: https://colab.research.google.com/
