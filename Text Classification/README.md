@@ -39,3 +39,5 @@ Text classification is one of the fundamental tasks in natural language processi
 
 
 **Thus, Predicted real Author of Hamlet is William Stanley**
+
+### Google Drive Link: https://docs.google.com/presentation/d/1zwuenDlKfXrnEFVjI044jl9LglmzpHKH/edit#slide=id.p1
