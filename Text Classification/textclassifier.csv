@@ -1,0 +1,9 @@
+﻿Doc,Words,Author
+1,w1 w2 w3 w4 w5 ,C
+2,w1 w1 w4 w3,C
+3,w1 w2 w5,C
+4,w5 w6 w1 w2 w3,W
+5,w4 w5 w6,W
+6,w4 w6 w3,F
+7,w2 w2 w4 w3 w5 w5,F
+
