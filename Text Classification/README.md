@@ -22,6 +22,9 @@ Text classification is one of the fundamental tasks in natural language processi
 
 
 
+<img width="167" alt="d4" src="https://user-images.githubusercontent.com/23255126/222937088-a0b9500a-f0e1-40fd-aebc-0375c7f24f69.png">
+
+
 
 <img width="464" alt="d3" src="https://user-images.githubusercontent.com/23255126/222936676-d1892fb4-551a-4e74-b79e-cccc1b009b20.png">
 
