@@ -7,9 +7,9 @@
 
 
 - Ubuntu:
-python3 -m venv venv
-. ./venv/bin/activate
-pip install -r requirements.txt
+- python3 -m venv venv
+- . ./venv/bin/activate
+- pip install -r requirements.txt
 
 - Create .env hidden file and add your OpenAI API key to the file.
 
