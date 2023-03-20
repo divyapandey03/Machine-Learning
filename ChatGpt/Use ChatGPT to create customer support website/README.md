@@ -28,8 +28,8 @@ Do not use any external URLs in your answers. Do not refer to any blogs in your 
 Format any lists on individual lines with a dash and a space in front of each item.
   
   - Execute the Code:
-    . ./venv/bin/activate
-     python chatgpy.py
+    - ./venv/bin/activate
+     - python chatgpy.py
    
    
   <img width="422" alt="a2" src="https://user-images.githubusercontent.com/23255126/226488040-996c9fa3-07f6-4f29-a8a0-dfc912c43276.png">
