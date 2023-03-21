@@ -19,7 +19,7 @@ ChatGPT is an AI language model developed by OpenAI that uses transformer archit
 
 - Create .env hidden file and add your OpenAI API key to the file.
 
-   OPENAI_API_KEY=<<YOUR_API_KEY>>      # You just need to fill in your API key from https://beta.openai.com
+   OPENAI_API_KEY=<<YOUR_API_KEY>>      # You just need to fill in your API key from https://beta.openai.com/account/api-keys
 
 - Edit chatgpt.py and replace <<PUT THE PROMPT HERE>> with your prompt:
 
