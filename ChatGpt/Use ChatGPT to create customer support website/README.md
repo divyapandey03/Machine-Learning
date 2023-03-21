@@ -1,4 +1,6 @@
+### Introduction:
 
+ChatGPT is an AI language model developed by OpenAI that uses transformer architecture for text generation. It was trained on a massive dataset of text and can comprehend contextual information to generate accurate responses. It has multiple use cases and can be customized for specific requirements. Its API can be integrated into applications for text generation.
 
 # Installation Steps:
 
