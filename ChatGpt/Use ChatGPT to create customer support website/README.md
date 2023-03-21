@@ -1,5 +1,7 @@
 # Introduction:
 
+![chatgpt](https://user-images.githubusercontent.com/23255126/226502504-8ae61391-eea2-4db3-a1f0-e3c955023d39.jpg)
+
 ChatGPT is an AI language model developed by OpenAI that uses transformer architecture for text generation. It was trained on a massive dataset of text and can comprehend contextual information to generate accurate responses. It has multiple use cases and can be customized for specific requirements. Its API can be integrated into applications for text generation.
 
 ![01_asking-chatgpt-to-create-an-outline-for-a-sales-presentation](https://user-images.githubusercontent.com/23255126/226496017-2e51b86e-a463-47d7-ad60-eb3ebee68d04.png)
