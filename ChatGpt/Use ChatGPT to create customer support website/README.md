@@ -47,3 +47,5 @@ Format any lists on individual lines with a dash and a space in front of each it
    
    
 <img width="674" alt="g7" src="https://user-images.githubusercontent.com/23255126/226488503-5777a1c9-2dfd-46f6-8de4-87f29fcdfaad.png">
+
+# Google Drive Link: https://docs.google.com/presentation/d/17QmLqcvDQTzKf4MKjmaXi9qBL-po_j--/edit#slide=id.p1
