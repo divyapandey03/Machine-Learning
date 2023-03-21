@@ -13,7 +13,7 @@
 
 - Create .env hidden file and add your OpenAI API key to the file.
 
-   OPENAI_API_KEY=<<YOUR_API_KEY>>
+   OPENAI_API_KEY=<<YOUR_API_KEY>>      # You just need to fill in your API key from https://beta.openai.com
 
 - Edit chatgpt.py and replace <<PUT THE PROMPT HERE>> with your prompt:
 
